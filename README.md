@@ -1,5 +1,5 @@
 # Zencaptcha for Wordpress
-ZENCAPTCHA protects WordPress website forms from bots, spam, fake and disposable email addresses without relying on cookies. ❌🍪
+ZENCAPTCHA protects WordPress website forms from bots, spam, fake and disposable email addresses without relying on cookies. ❌🍪<br>
 Fully GDPR compliant (maximum data protection). Get rid of users with invalid or fake email addresses, not solely bots, to optimize the integrity of your user base. ZENCAPTCHA is made in the EU. 🇪🇺
 
 # Features ✨
@@ -23,7 +23,7 @@ Fully GDPR compliant (maximum data protection). Get rid of users with invalid or
 ✅ Block automated bots<br>
 ✅ Block users and bots with disposable email addresses, temporary email addresses or invalid email addresses<br>
 🌐 Multilingual spam protection. (Will detect user language and guide users in their language through the confirmation.)<br>
-🎯 Good user experience
+🎯 Good user experience<br>
 🍪 No cookies<br>
 🔒 GDPR compliant (+ EU servers)<br>
 
