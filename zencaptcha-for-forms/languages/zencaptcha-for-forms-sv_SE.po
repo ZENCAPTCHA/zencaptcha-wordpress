@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ZENCAPTCHA protects WordPress forms from abuse by bots and unfair users. Reduces spam, blocks fake and disposable email addresses and increases your user base quality without the use of cookies. Fully GDPR compliant. Does not decrease user experience."
+msgstr "ZENCAPTCHA skyddar WordPress-formulär från missbruk av robotar och otillbörliga användare. Minskar skräppost, blockerar falska och engångs-e-postadresser och ökar kvaliteten på din användarbas utan användning av kakor. Fullständigt GDPR-kompatibelt. Minskar inte användarupplevelsen."
+
+msgid "Zencaptcha Settings"
+msgstr "Zencaptcha-inställningar"
+
+msgid "<strong>Error.</strong> Your login data contains errors."
+msgstr "<strong>Fel.</strong> Dina inloggningsuppgifter innehåller fel."
+
+msgid "Please confirm that you are human. <strong>Try again.</strong>"
+msgstr "Bekräfta att du är människa. <strong>Försök igen.</strong>"
+
+msgid "Please confirm that you are human. Try again."
+msgstr "Bekräfta att du är människa. Försök igen."
+
+msgid "Robot check failed, please retry."
+msgstr "Robotkontrollen misslyckades, försök igen."
+
+msgid "Confirm the robot check again."
+msgstr "Bekräfta robotkontrollen igen."
+
+msgid "Use a valid email address."
+msgstr "Använd en giltig e-postadress."
+
+msgid "<b>Your access has been blocked.</b>"
+msgstr "<b>Din åtkomst har blockerats.</b>"
+
+msgid "<b>Error:</b> Please fill in the required fields."
+msgstr "<b>Fel:</b> Fyll i de obligatoriska fälten."
+
+msgid "<b>Zencaptcha is not configured yet! (Sitekey and secret key is missing)</b> Visit the <a href=\"%1$s\">Zencaptcha WordPress settings page</a> and enter a valid Sitekey and Secret Key that you get from <a href=\"%2$s\">Zencaptcha.com (Account)</a> to complete the setup."
+msgstr "<b>Zencaptcha är inte konfigurerat ännu! (Sitekey och secret key saknas)</b> Besök <a href=\"%1$s\">Zencaptchas WordPress-inställningssida</a> och ange en giltig Sitekey och Secret Key som du får från <a href=\"%2$s\">Zencaptcha.com (Konto)</a> för att slutföra konfigurationen."
+
+msgid "We will not spam or share your email. <strong>Please do not use a disposable email address</strong>. Thank you!"
+msgstr "Vi kommer inte att skicka skräppost eller dela din e-postadress. <strong>Var god använd inte en engångs-e-postadress</strong>. Tack!"
+
+msgid "Get your Site Key and Secret Key at <a href=\"%s\">Zencaptcha.com</a>. <b>How it works:</b> Add your website (for example enter <b>%s</b>) to your Zencaptcha.com dashboard and copy the Sitekey and Secretkey that are automatically generated with your website. Paste the Sitekey and Secretkey into the fields on the current Wordpress settings page."
+msgstr "Hämta din Site Key och Secret Key på <a href=\"%s\">Zencaptcha.com</a>. <b>Så fungerar det:</b> Lägg till din webbplats (till exempel ange <b>%s</b>) i ditt Zencaptcha.com dashboard och kopiera Sitekey och Secretkey som automatiskt genereras med din webbplats. Klistra in Sitekey och Secretkey i fälten på den aktuella Wordpress-inställningssidan."
+
+msgid "Get Site Key + Secret Key"
+msgstr "Hämta Site Key + Secret Key"
+
+msgid "Want to see your statistics, add websites or upgrade your plan for premium features? Go to your ZENCAPTCHA dashboard."
+msgstr "Vill du se dina statistiker, lägga till webbplatser eller uppgradera din plan för premiumfunktioner? Gå till ditt ZENCAPTCHA-dashboard."
+
+msgid "ZENCAPTCHA Dashboard"
+msgstr "ZENCAPTCHA Dashboard"
+
+msgid "Zencaptcha Site Key"
+msgstr "Zencaptcha Site Key"
+
+msgid "Zencaptcha Secret Key"
+msgstr "Zencaptcha Secret Key"
+
+msgid "Login"
+msgstr "Logga in"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid "Reset Password"
+msgstr "Återställ lösenord"
+
+msgid "Comments (Guests)"
+msgstr "Kommentarer (Gäster)"
+
+msgid "Comments (Logged in users)"
+msgstr "Kommentarer (Inloggade användare)"
+
+msgid "Checkout"
+msgstr "Kassa"
+
+msgid "Activate"
+msgstr "Aktivera"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgid "<b>Recommended: </b> Leave this set to \"Automatic\" as the correct language will automatically be displayed to the user. If you select a language here, the widget will only be displayed in that language to every user."
+msgstr "<b>Rekommenderat: </b> Lämna det här inställt på \"Automatisk\" eftersom rätt språk automatiskt visas för användaren. Om du väljer ett språk här kommer widgeten endast visas på det språket för varje användare."
+
+msgid "The user needs to"
+msgstr "Användaren behöver"
+
+msgid "click into a form field for the robot check to begin."
+msgstr "klicka i ett formulärfält för att starta robotkontrollen."
+
+msgid "click on the ZENCAPTCHA-Widget for the robot check to begin."
+msgstr "klicka på ZENCAPTCHA-widgeten för att starta robotkontrollen."
+
+msgid "Custom country black list"
+msgstr "Anpassad landsblockeringslista"
+
+msgid "<b>Include custom countries you want to block. <br>One country code per line.</b><br> Use ISO 3166-1 - (ISO 3166-1 alpha-2 codes). For example: DE for Germany, RU for Russia. <a href=\"https://www.iban.com/country-codes\" target=\"_blank\">See full list here.</a>"
+msgstr "<b>Inkludera anpassade länder du vill blockera. <br>Ett landskod per rad.</b><br> Använd ISO 3166-1 - (ISO 3166-1 alpha-2-koder). Till exempel: DE för Tyskland, RU för Ryssland. <a href=\"https://www.iban.com/country-codes\" target=\"_blank\">Se fullständig lista här.</a>"
+
+msgid "Help us create a safer and more privacy-respecting web!"
+msgstr "Hjälp oss att skapa en säkrare och mer integritetsrespekterande webb!"
+
+msgid "Like us on Facebook"
+msgstr "Gilla oss på Facebook"
+
+msgid "Follow us on Instagram"
+msgstr "Följ oss på Instagram"
+
+msgid "Share on Facebook"
+msgstr "Dela på Facebook"
+
+msgid "+ Verify Email Adresses (Block invalid and disposable email addresses)"
+msgstr "+ Verifiera e-postadresser (Blockera ogiltiga och engångs-e-postadresser)"
+
+msgid "Thank you for using the <a href=\"%s\">Zencaptcha</a> plugin by <a href=\"%s\">Zencaptcha.com</a> ."
+msgstr "Tack för att du använder <a href=\"%s\">Zencaptcha</a>-tillägget av <a href=\"%s\">Zencaptcha.com</a>."

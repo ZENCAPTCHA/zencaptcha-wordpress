@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Language: tr_TR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ZENCAPTCHA protects WordPress forms from abuse by bots and unfair users. Reduces spam, blocks fake and disposable email addresses and increases your user base quality without the use of cookies. Fully GDPR compliant. Does not decrease user experience."
+msgstr "ZENCAPTCHA, WordPress formlarını botlardan ve adil olmayan kullanıcılardan korur. Spamı azaltır, sahte ve tek kullanımlık e-posta adreslerini engeller ve çerez kullanmadan kullanıcı tabanı kalitesini artırır. Tamamen GDPR uyumludur. Kullanıcı deneyimini azaltmaz."
+
+msgid "Zencaptcha Settings"
+msgstr "Zencaptcha Ayarları"
+
+msgid "<strong>Error.</strong> Your login data contains errors."
+msgstr "<strong>Hata.</strong> Giriş verileriniz hatalı."
+
+msgid "Please confirm that you are human. <strong>Try again.</strong>"
+msgstr "Lütfen insan olduğunuzu onaylayın. <strong>Tekrar deneyin.</strong>"
+
+msgid "Please confirm that you are human. Try again."
+msgstr "Lütfen insan olduğunuzu onaylayın. Tekrar deneyin."
+
+msgid "Robot check failed, please retry."
+msgstr "Robot kontrolü başarısız, lütfen tekrar deneyin."
+
+msgid "Confirm the robot check again."
+msgstr "Robot kontrolünü tekrar onaylayın."
+
+msgid "Use a valid email address."
+msgstr "Geçerli bir e-posta adresi kullanın."
+
+msgid "<b>Your access has been blocked.</b>"
+msgstr "<b>Erişiminiz engellendi.</b>"
+
+msgid "<b>Error:</b> Please fill in the required fields."
+msgstr "<b>Hata:</b> Lütfen gerekli alanları doldurun."
+
+msgid "<b>Zencaptcha is not configured yet! (Sitekey and secret key is missing)</b> Visit the <a href=\"%1$s\">Zencaptcha WordPress settings page</a> and enter a valid Sitekey and Secret Key that you get from <a href=\"%2$s\">Zencaptcha.com (Account)</a> to complete the setup."
+msgstr "<b>Zencaptcha henüz yapılandırılmadı! (Site anahtarı ve gizli anahtar eksik)</b> <a href=\"%1$s\">Zencaptcha WordPress ayarları sayfasını</a> ziyaret edin ve kurulumu tamamlamak için <a href=\"%2$s\">Zencaptcha.com (Hesap)</a>'dan aldığınız geçerli Site Anahtarı ve Gizli Anahtarı girin."
+
+msgid "We will not spam or share your email. <strong>Please do not use a disposable email address</strong>. Thank you!"
+msgstr "Spam yapmayacağız veya e-postanızı paylaşmayacağız. <strong>Lütfen tek kullanımlık e-posta adresi kullanmayın</strong>. Teşekkür ederiz!"
+
+msgid "Get your Site Key and Secret Key at <a href=\"%s\">Zencaptcha.com</a>. <b>How it works:</b> Add your website (for example enter <b>%s</b>) to your Zencaptcha.com dashboard and copy the Sitekey and Secretkey that are automatically generated with your website. Paste the Sitekey and Secretkey into the fields on the current Wordpress settings page."
+msgstr "Site Anahtarınızı ve Gizli Anahtarınızı <a href=\"%s\">Zencaptcha.com</a>'dan alın. <b>Nasıl çalışır:</b> Web sitenizi (örneğin, <b>%s</b>) Zencaptcha.com panonuza ekleyin ve web sitenizle otomatik olarak oluşturulan Site Anahtarını ve Gizli Anahtarını kopyalayın. Site Anahtarını ve Gizli Anahtarını mevcut Wordpress ayar sayfasındaki alanlara yapıştırın."
+
+msgid "Get Site Key + Secret Key"
+msgstr "Site Anahtarı + Gizli Anahtar Al"
+
+msgid "Want to see your statistics, add websites or upgrade your plan for premium features? Go to your ZENCAPTCHA dashboard."
+msgstr "İstatistiklerinizi görmek, web siteleri eklemek veya premium özellikler için planınızı yükseltmek ister misiniz? ZENCAPTCHA panelinize gidin."
+
+msgid "ZENCAPTCHA Dashboard"
+msgstr "ZENCAPTCHA Paneli"
+
+msgid "Zencaptcha Site Key"
+msgstr "Zencaptcha Site Anahtarı"
+
+msgid "Zencaptcha Secret Key"
+msgstr "Zencaptcha Gizli Anahtarı"
+
+msgid "Login"
+msgstr "Giriş"
+
+msgid "Register"
+msgstr "Kayıt Ol"
+
+msgid "Reset Password"
+msgstr "Şifre Sıfırla"
+
+msgid "Comments (Guests)"
+msgstr "Yorumlar (Misafirler)"
+
+msgid "Comments (Logged in users)"
+msgstr "Yorumlar (Giriş yapmış kullanıcılar)"
+
+msgid "Checkout"
+msgstr "Ödeme"
+
+msgid "Activate"
+msgstr "Etkinleştir"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Automatic"
+msgstr "Otomatik"
+
+msgid "<b>Recommended: </b> Leave this set to \"Automatic\" as the correct language will automatically be displayed to the user. If you select a language here, the widget will only be displayed in that language to every user."
+msgstr "<b>Tavsiye edilen: </b> \"Otomatik\" olarak bırakın çünkü doğru dil otomatik olarak kullanıcıya gösterilecektir. Burada bir dil seçerseniz, widget her kullanıcı için yalnızca o dilde gösterilecektir."
+
+msgid "The user needs to"
+msgstr "Kullanıcı"
+
+msgid "click into a form field for the robot check to begin."
+msgstr "robot kontrolünün başlaması için bir form alanına tıklamalıdır."
+
+msgid "click on the ZENCAPTCHA-Widget for the robot check to begin."
+msgstr "robot kontrolünün başlaması için ZENCAPTCHA Widget'ına tıklamalıdır."
+
+msgid "Custom country black list"
+msgstr "Özel ülke kara listesi"
+
+msgid "<b>Include custom countries you want to block. <br>One country code per line.</b><br> Use ISO 3166-1 - (ISO 3166-1 alpha-2 codes). For example: DE for Germany, RU for Russia. <a href=\"https://www.iban.com/country-codes\" target=\"_blank\">See full list here.</a>"
+msgstr "<b>Engellemek istediğiniz özel ülkeleri dahil edin. <br>Her satıra bir ülke kodu.</b><br> ISO 3166-1'i kullanın - (ISO 3166-1 alfa-2 kodları). Örneğin: Almanya için DE, Rusya için RU. <a href=\"https://www.iban.com/country-codes\" target=\"_blank\">Buradan tam listeyi görüntüleyin.</a>"
+
+msgid "Help us create a safer and more privacy-respecting web!"
+msgstr "Daha güvenli ve gizliliğe saygılı bir internet oluşturmamıza yardımcı olun!"
+
+msgid "Like us on Facebook"
+msgstr "Bizi Facebook'ta beğenin"
+
+msgid "Follow us on Instagram"
+msgstr "Bizi Instagram'da takip edin"
+
+msgid "Share on Facebook"
+msgstr "Facebook'ta paylaş"
+
+msgid "+ Verify Email Adresses (Block invalid and disposable email addresses)"
+msgstr "+ E-posta adreslerini doğrulayın (geçersiz ve tek kullanımlık e-posta adreslerini engelleyin)"
+
+msgid "Thank you for using the <a href=\"%s\">Zencaptcha</a> plugin by <a href=\"%s\">Zencaptcha.com</a> ."
+msgstr "<a href=\"%s\">Zencaptcha</a> eklentisini kullandığınız için teşekkür ederiz, <a href=\"%s\">Zencaptcha.com</a> ."
