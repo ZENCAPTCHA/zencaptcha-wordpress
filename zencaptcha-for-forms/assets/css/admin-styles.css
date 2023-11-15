@@ -1,0 +1,62 @@
+.description{
+    max-width:500px;
+    border-radius: 8px;
+}
+
+
+.premium-label {
+    display: inline-block;
+    padding: 4px 8px;
+    background-color: #3958e9; /* Blue color */
+    color: #fff; /* White text color */
+    border-radius: 8px; /* Rounded corners */
+    font-size:12px;
+}
+
+.grid-container {
+    margin-top:20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 10px;
+}
+
+.section {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    border-radius:8px;
+    padding: 10px;
+}
+
+.section h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    font-size:14px;
+    line-height:1.5rem;
+}
+
+.item-premium{
+    background-color: #151515;
+    color:white;
+    border-radius:8px;
+    display: flex;
+    align-items: center;
+    font-size:14px;
+    line-height:1.5rem;
+    margin-left:-8px;
+    margin-right:-8px;
+    padding:10px;
+}
+
+.plugin-logos{
+    height:30px;
+}
+
+input[type="checkbox"].zencap-checkbox {
+    width: 18px;
+    height: 18px;
+}

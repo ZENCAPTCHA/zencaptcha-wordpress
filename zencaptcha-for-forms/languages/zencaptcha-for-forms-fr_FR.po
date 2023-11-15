@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ZENCAPTCHA protects WordPress forms from abuse by bots and unfair users. Reduces spam, blocks fake and disposable email addresses and increases your user base quality without the use of cookies. Fully GDPR compliant. Does not decrease user experience."
+msgstr "ZENCAPTCHA protège les formulaires WordPress contre les abus des robots et des utilisateurs malveillants. Réduit le spam, bloque les adresses e-mail fausses et jetables et améliore la qualité de votre base d'utilisateurs sans utiliser de cookies. Conforme au RGPD. Ne diminue pas l'expérience utilisateur."
+
+msgid "Zencaptcha Settings"
+msgstr "Paramètres Zencaptcha"
+
+msgid "<strong>Error.</strong> Your login data contains errors."
+msgstr "<strong>Erreur.</strong> Vos données de connexion contiennent des erreurs."
+
+msgid "Please confirm that you are human. <strong>Try again.</strong>"
+msgstr "Veuillez confirmer que vous êtes humain. <strong>Essayez à nouveau.</strong>"
+
+msgid "Please confirm that you are human. Try again."
+msgstr "Veuillez confirmer que vous êtes humain. Réessayez."
+
+msgid "Robot check failed, please retry."
+msgstr "Vérification robotique échouée, veuillez réessayer."
+
+msgid "Confirm the robot check again."
+msgstr "Confirmez à nouveau la vérification du robot."
+
+msgid "Use a valid email address."
+msgstr "Utilisez une adresse e-mail valide."
+
+msgid "<b>Your access has been blocked.</b>"
+msgstr "<b>Votre accès a été bloqué.</b>"
+
+msgid "<b>Error:</b> Please fill in the required fields."
+msgstr "<b>Erreur :</b> Veuillez remplir les champs requis."
+
+msgid "<b>Zencaptcha is not configured yet! (Sitekey and secret key is missing)</b> Visit the <a href=\"%1$s\">Zencaptcha WordPress settings page</a> and enter a valid Sitekey and Secret Key that you get from <a href=\"%2$s\">Zencaptcha.com (Account)</a> to complete the setup."
+msgstr "<b>Zencaptcha n'est pas encore configuré ! (Sitekey et secret key manquent)</b> Visitez la <a href=\"%1$s\">page de paramètres WordPress de Zencaptcha</a> et saisissez un Sitekey et un Secret Key valides que vous obtenez sur <a href=\"%2$s\">Zencaptcha.com (Compte)</a> pour terminer la configuration."
+
+msgid "We will not spam or share your email. <strong>Please do not use a disposable email address</strong>. Thank you!"
+msgstr "Nous ne ferons pas de spam ni ne partagerons votre adresse e-mail. <strong>Ne utilisez pas une adresse e-mail jetable</strong>. Merci !"
+
+msgid "Get your Site Key and Secret Key at <a href=\"%s\">Zencaptcha.com</a>. <b>How it works:</b> Add your website (for example enter <b>%s</b>) to your Zencaptcha.com dashboard and copy the Sitekey and Secretkey that are automatically generated with your website. Paste the Sitekey and Secretkey into the fields on the current Wordpress settings page."
+msgstr "Obtenez votre Site Key et votre Secret Key sur <a href=\"%s\">Zencaptcha.com</a>. <b>Comment ça marche :</b> Ajoutez votre site web (par exemple entrez <b>%s</b>) à votre tableau de bord Zencaptcha.com et copiez le Sitekey et le Secretkey qui sont générés automatiquement avec votre site web. Collez le Sitekey et le Secretkey dans les champs de la page de réglages actuelle de Wordpress."
+
+msgid "Get Site Key + Secret Key"
+msgstr "Obtenir Site Key + Secret Key"
+
+msgid "Want to see your statistics, add websites or upgrade your plan for premium features? Go to your ZENCAPTCHA dashboard."
+msgstr "Vous souhaitez consulter vos statistiques, ajouter des sites web ou mettre à niveau votre plan pour des fonctionnalités premium ? Accédez à votre tableau de bord ZENCAPTCHA."
+
+msgid "ZENCAPTCHA Dashboard"
+msgstr "Tableau de bord ZENCAPTCHA"
+
+msgid "Zencaptcha Site Key"
+msgstr "Clé de site Zencaptcha"
+
+msgid "Zencaptcha Secret Key"
+msgstr "Clé secrète Zencaptcha"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Comments (Guests)"
+msgstr "Commentaires (Invités)"
+
+msgid "Comments (Logged in users)"
+msgstr "Commentaires (Utilisateurs connectés)"
+
+msgid "Checkout"
+msgstr "Paiement"
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Automatic"
+msgstr "Automatique"
+
+msgid "<b>Recommended: </b> Leave this set to \"Automatic\" as the correct language will automatically be displayed to the user. If you select a language here, the widget will only be displayed in that language to every user."
+msgstr "<b>Recommandé : </b> Laissez cela défini sur \"Automatique\" car la langue correcte sera automatiquement affichée à l'utilisateur. Si vous sélectionnez une langue ici, le widget ne sera affiché que dans cette langue pour chaque utilisateur."
+
+msgid "The user needs to"
+msgstr "L'utilisateur doit"
+
+msgid "click into a form field for the robot check to begin."
+msgstr "cliquer dans un champ de formulaire pour que la vérification du robot commence."
+
+msgid "click on the ZENCAPTCHA-Widget for the robot check to begin."
+msgstr "cliquer sur le widget ZENCAPTCHA pour que la vérification du robot commence."
+
+msgid "Custom country black list"
+msgstr "Liste noire de pays personnalisée"
+
+msgid "<b>Include custom countries you want to block. <br>One country code per line.</b><br> Use ISO 3166-1 - (ISO 3166-1 alpha-2 codes). For example: DE for Germany, RU for Russia. <a href=\"https://www.iban.com/country-codes\" target=\"_blank\">See full list here.</a>"
+msgstr "<b>Inclure les pays personnalisés que vous souhaitez bloquer. <br>Un code pays par ligne.</b><br> Utilisez l'ISO 3166-1 - (codes alpha-2 de l'ISO 3166-1). Par exemple : DE pour l'Allemagne, RU pour la Russie. <a href=\"https://www.iban.com/country-codes\" target=\"_blank\">Voir la liste complète ici.</a>"
+
+msgid "Help us create a safer and more privacy-respecting web!"
+msgstr "Aidez-nous à créer un web plus sûr et respectueux de la vie privée !"
+
+msgid "Like us on Facebook"
+msgstr "Aimez-nous sur Facebook"
+
+msgid "Follow us on Instagram"
+msgstr "Suivez-nous sur Instagram"
+
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+msgid "+ Verify Email Addresses (Block invalid and disposable email addresses)"
+msgstr "+ Vérifier les adresses e-mail (Bloquer les adresses e-mail invalides et jetables)"
+
+msgid "Thank you for using the <a href=\"%s\">Zencaptcha</a> plugin by <a href=\"%s\">Zencaptcha.com</a> ."
+msgstr "Merci d'utiliser le plugin <a href=\"%s\">Zencaptcha</a> par <a href=\"%s\">Zencaptcha.com</a> ."
