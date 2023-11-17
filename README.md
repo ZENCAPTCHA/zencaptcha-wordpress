@@ -5,6 +5,9 @@ ZENCAPTCHA protects WordPress website forms from bots, spam, fake and disposable
 Fully **GDPR compliant** (maximum data protection). Get rid of users with invalid or fake email addresses, not solely bots, to optimize the integrity of your user base. ZENCAPTCHA is made in the **EU**. 🇪🇺
 
 
+<a href='https://www.zencaptcha.com/docs/de/zencaptcha-wordpress'>🇩🇪 Installation (auf Deutsch)</a> • 
+<a href='https://www.zencaptcha.com/docs/fr/zencaptcha-wordpress'>🇫🇷 Installation (en Français)</a>
+
 
 ## INSTALLATION 🎯
 * Install the ZENCAPTCHA plugin on your WordPress powered website, click here to download the latest ZENCAPTCHA zip file: **<a href='https://github.com/ZENCAPTCHA/zencaptcha-wordpress/releases/download/1.0.0/zencaptcha-for-forms.zip'>zencaptcha-for-forms.zip</a>**
